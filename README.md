@@ -1,5 +1,5 @@
-# Hey there traveller :D
-- Soumik here! 
+# Hey there traveller!
+- Soumik here (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
 - I’m currently learning DevOps tools and Game Dev
 - Always learning and cooking something ;)
 
@@ -26,4 +26,4 @@
        alt="GIF" width="600">
 </p>
 
-# Thanks for visiting mine humble abode traveller :D
+# Thanks for visiting mine humble abode traveller (⁠ ⁠´⁠◡⁠‿⁠ゝ⁠◡⁠`⁠)
