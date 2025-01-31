@@ -1,6 +1,6 @@
 # Hey there traveller!
 - Soumik here (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
-- I’m currently learning DevOps tools and Game Dev
+- I’m currently learning about Cloud, DevOps tools and a lil bit of Game Dev
 - Always learning and cooking something ;)
 
 <p align="center">
