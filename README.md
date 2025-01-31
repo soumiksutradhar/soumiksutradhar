@@ -12,8 +12,7 @@
 <p>GitHub Trophies&nbsp&nbsp&nbsp&nbspSocials&nbsp&nbsp&nbsp&nbspTech Stack&nbsp&nbsp&nbsp&nbspGitHub Stats&nbsp&nbsp&nbsp&nbspTop Contributed Repo</p>
 
 ## $ cd GitHub Trophies<br>$ ls
-![](https://github-profile-trophy.vercel.app/?username=soumiksutradhar&theme=noctis_minimus&no-frame=true&no-bg=true&margin-w=4)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=soumiksutradhar&theme=nord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ## $ cd ..<br>$ cd Socials<br>$ ls
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dopester03) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@CavemanCoding) 
 
