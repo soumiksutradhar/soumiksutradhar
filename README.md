@@ -13,6 +13,7 @@
 
 ## $ cd 'GitHub Trophies'<br>$ ls
 [![trophy](https://github-profile-trophy.vercel.app/?username=soumiksutradhar&theme=nord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## $ cd ..<br>$ cd Socials<br>$ ls
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dopester03) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@CavemanCoding) 
 
