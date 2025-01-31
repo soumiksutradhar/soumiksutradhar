@@ -38,4 +38,4 @@
 
 ## $ exit
 
-# Thanks for visiting mine humble abode traveller (⁠ ⁠´⁠◡⁠‿⁠ゝ⁠◡⁠`⁠)
+# Thanks for visiting mine humble abode traveller<br>(⁠ ⁠´⁠◡⁠‿⁠ゝ⁠◡⁠`⁠)
