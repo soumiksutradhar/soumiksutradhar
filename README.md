@@ -71,4 +71,4 @@
        alt="GIF" width="600">
 </p>
 
-# Thanks for visiting mine humble abode traveller<br>(⁠ ⁠´⁠◡⁠‿⁠ゝ⁠◡⁠`⁠)
+# Thanks for visiting mine humble abode traveller, may you find the shelter you seek<br>(⁠ ⁠´⁠◡⁠‿⁠ゝ⁠◡⁠`⁠)
