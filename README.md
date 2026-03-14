@@ -9,16 +9,9 @@
 </p>
 
 ## $ ls
-<p>'GitHub Trophies'&nbsp&nbsp&nbsp&nbspSocials&nbsp&nbsp&nbsp&nbsp'Tech Stack'&nbsp&nbsp&nbsp&nbsp'GitHub Stats'&nbsp&nbsp&nbsp&nbsp'Top Contributed Repo'</p>
+<p>Socials&nbsp&nbsp&nbsp&nbsp'Tech Stack'&nbsp&nbsp&nbsp&nbsp'GitHub Stats'&nbsp&nbsp&nbsp&nbsp'Top Contributed Repo'</p>
 
-## $ cd 'GitHub Trophies'<br>$ ls
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=soumiksutradhar&theme=nord&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies">
-  </a>
-</p>
-
-## $ cd ..<br>$ cd Socials<br>$ ls
+## $ cd Socials<br>$ ls
 <p align="center">
   <a href="https://instagram.com/dopester03">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" alt="Instagram">
@@ -59,12 +52,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumiksutradhar&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-## $ cd ..<br>$ cd 'Top Contributed Repo'<br>$ ls
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=soumiksutradhar&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
-</p>
+## $ cd ..<br>
 
-## $ cd ..<br>$ exit
+## $ exit
 
 <p align="center">
   <img src="https://imgs.search.brave.com/qmUb6m9Z-KkI35k2l51JUkxU1ePjSuXIg78psPznTV4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjbWg0TldRNGFY/WTBiMmd5YXpJeGF6/azRiakU1ZGpVd05t/SjRlWEYxYm1sa1pX/WnlPR3g2ZENabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vbGtjZVhORHc0/QWdyeWZyd3o4L2dp/cGh5LmdpZg.gif" 
