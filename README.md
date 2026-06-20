@@ -19,6 +19,9 @@
   <a href="https://youtube.com/@CavemanCoding">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
+  <a href="https://www.linkedin.com/in/soumiksutradhar/">
+    <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/linkedin-icon-svg-download-png-10898423.png?f=webp&w=128">
+  </a>
 </p>
 
 ## $ cd ..<br>$ cd 'Tech Stack'<br>$ ls
