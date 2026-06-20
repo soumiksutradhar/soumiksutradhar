@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://www.linkedin.com/in/soumiksutradhar/">
-    <img src="https://cdn-icons-png.flaticon.com/128/14449/14449766.png">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
